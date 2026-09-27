@@ -1,0 +1,17 @@
+{
+  "name": "דוח צל״ם",
+  "short_name": "צל״ם",
+  "description": "רשימה אישית של כל הציוד שאתה חתום עליו",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#E4E6DA",
+  "theme_color": "#465723",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
